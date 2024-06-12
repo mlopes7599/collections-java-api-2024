@@ -31,7 +31,7 @@ public class CarrinhoCompras {
             System.out.println(compraList);
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         CarrinhoCompras carrinhoCompras = new CarrinhoCompras();
 
         System.out.println("Lista: ");
@@ -48,6 +48,6 @@ public class CarrinhoCompras {
 
         System.out.println("Lista removida");
         carrinhoCompras.obterProdutosCompras();
-
-    }
+*/
+    //}
 }
