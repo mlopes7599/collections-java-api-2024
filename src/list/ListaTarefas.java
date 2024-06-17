@@ -1,3 +1,5 @@
+package list;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -41,13 +43,13 @@ public class ListaTarefas {
     }
 
     /*public static void main(String[] args) {
-        ListaTarefas listaTarefas = new ListaTarefas();
+        list.ListaTarefas listaTarefas = new list.ListaTarefas();
 
         System.out.println("O numero total de tarefas é: " + listaTarefas.obterNumeroTotalTarefas());
-        listaTarefas.adicinarTarefa("Tarefa 1");
-        listaTarefas.adicinarTarefa("Tarefa 2");
+        listaTarefas.adicinarTarefa("list.Tarefa 1");
+        listaTarefas.adicinarTarefa("list.Tarefa 2");
         System.out.println("O numero total de tarefas é: " + listaTarefas.obterNumeroTotalTarefas());
-        listaTarefas.removerTarefaa("Tarefa ");
+        listaTarefas.removerTarefaa("list.Tarefa ");
         System.out.println("O numero total de tarefas é: " + listaTarefas.obterNumeroTotalTarefas());
         listaTarefas.obterDescricoesTarefas();
     }*/

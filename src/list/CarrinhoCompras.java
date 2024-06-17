@@ -1,3 +1,5 @@
+package list;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,7 +34,7 @@ public class CarrinhoCompras {
     }
 
     /*public static void main(String[] args) {
-        CarrinhoCompras carrinhoCompras = new CarrinhoCompras();
+        list.CarrinhoCompras carrinhoCompras = new list.CarrinhoCompras();
 
         System.out.println("Lista: ");
         carrinhoCompras.obterProdutosCompras();
